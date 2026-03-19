@@ -9,7 +9,7 @@ IoT devices.
 ## ❓ Why Does This Exist?
 Most cybersecurity frameworks (NIST, MITRE, OWASP) were 
 built for large enterprises. Small businesses are left 
-without practical, accessible guidance — despite being 
+without practical, accessible guidance, despite being 
 the most vulnerable and the least protected.
 
 PEA Defense fills that gap.
