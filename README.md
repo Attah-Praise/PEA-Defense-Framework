@@ -22,11 +22,11 @@ PEA Defense fills that gap.
 
 ## 🌍 Our Goal
 To become the first globally adopted, multilingual, 
-open-source cybersecurity framework for SMBs — 
+open-source cybersecurity framework for SMBs, 
 co-developed by contributors from multiple countries.
 
 ## 📌 Current Status
-🚧 Framework under active development — Version 1.0 coming soon
+🚧 Framework under active development, Version 1.0 coming soon
 
 ## 🤝 Want to Contribute?
 We are looking for cybersecurity professionals, researchers, 
@@ -35,4 +35,4 @@ Visit peadefense.com to learn more.
 
 ## 📄 License
 Creative Commons Attribution 4.0 International (CC BY 4.0)
-© [Your Full Name] — 2026
+© Praise Elojo Attah — 2026
