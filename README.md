@@ -35,4 +35,4 @@ Visit peadefense.com to learn more.
 
 ## 📄 License
 Creative Commons Attribution 4.0 International (CC BY 4.0)
-© Praise Elojo Attah — 2026
+© Praise Elojo Attah 2026
